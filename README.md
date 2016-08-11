@@ -1,0 +1,3 @@
+- cd /npm-boilerplate
+- Run npm install
+- Run gulp watch
